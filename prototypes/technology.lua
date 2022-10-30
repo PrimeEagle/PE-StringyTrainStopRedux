@@ -2,7 +2,7 @@ data:extend({
   {
       type = "technology",
       name = "stringy-train-stop",
-      icon = "__stringy-train-stop-redux__/graphics/station-automation.png",
+      icon = "__PE-StringyTrainStopRedux__/graphics/station-automation.png",
       icon_size = 128,
       prerequisites = {"circuit-network", "automated-rail-transportation"},
       effects =

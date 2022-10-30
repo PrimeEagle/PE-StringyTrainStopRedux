@@ -1,7 +1,7 @@
 {
-  "name": "stringy-train-stop-redux",
-  "version": "1.0.0",
-  "title": "Stringy Train Stops Redux",
+  "name": "PE-StringyTrainStopRedux",
+  "version": "1.0.2",
+  "title": "PE Stringy Train Stops Redux",
   "author": "PrimeEagle, based on justarandomgeek (who based it on Aladrius)",
   "description": "Rename train stations and dispatch trains based on circuit signals.\nThis is an update to fix bugs and add features to string-train-stop by justarandomgeek, since that version hasn't been updated in a while.\n\nChanges include retaining train limits and train stop colors, and retaining connections and settings for the circuit network and logistics network. Some icons were also updated.",
   "factorio_version": "1.1",

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2022.10.01
+  Info:
+	- Initial version forked
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2022.10.27
+  Changes:
+    - Updated name to PE-StringyTrainStopRedux
+	- added fast_replaceable_group = "train-stop"
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2022.10.28
+  Changes:
+    - Fixed internal bugs due to renaming mod
