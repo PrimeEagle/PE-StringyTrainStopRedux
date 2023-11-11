@@ -1,6 +1,8 @@
 ## Stringy Train Stops
 
-Uses signalstrings to rename train stops, and send trains to them.
+<img src="https://github.com/PrimeEagle/PE-StringyTrainStopRedux/blob/main/train.png?raw=true" width="250" />
+
+A Factorio mod, using signalstrings to rename train stops, and send trains to them.
 
 To rename a stop, send the string along with signal-stopname.
 To send a train to a stop, send the string along with signal-goto.
